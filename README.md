@@ -15,14 +15,14 @@ Nesta formação você aprenderá os principais conceitos do framework NestJs de
 Faça um clone deste repositório e instale no seu ambiente de desenvolvimento usando o seguinte comando no seu terminal (escolha um diretório apropriado):
 
 ```shell
-git clone https://github.com/devProCodeAcademy/formacao-nestjs-do-zero-v1.git
+git clone https://github.com/devProCodeAcademy/formacao-nestjs-do-zero-app1-v1.git
 ```
 
 Após clonar o conteúdo do repositório, acesse o diretório criado e execute os comandos abaixo para criar e executar os containers da aplicação e do banco de dados PostgreSQL.
 
 ```shell
 # Entrar no diretório do projeto
-cd formacao-nestjs-do-zero-v1
+cd formacao-nestjs-do-zero-app1-v1
 
 # Instalar as dependências
 npm install
